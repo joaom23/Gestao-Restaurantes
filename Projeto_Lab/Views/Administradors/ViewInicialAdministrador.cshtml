@@ -1,0 +1,15 @@
+﻿@using Microsoft.AspNetCore.Http;
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 style="text-align:center">Bem Vindo Administrador @Context.Session.GetString("Nome")</h1>
+<br />
+<a asp-action="CriarAdmin" asp-controller="Administradors">Criar Admin</a>
+<br />
+<a asp-action="ListaAceitarRestaurantes" asp-controller="Administradors">Aceitar Restaurantes</a>
+<br />
+<a asp-action="VerRestaurantesAtivos" asp-controller="Administradors">Ver Restaurantes Ativos</a>
+<br />
+<a asp-action="Suspensoes" asp-controller="Administradors">Gerir Utilizadores</a>

@@ -1,0 +1,47 @@
+﻿@model Projeto_Lab.Models.Utilizador
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>Login</h1>
+
+    <form asp-action="Login">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div>
+            @*<label asp-for="Username"></label>*@
+            <br />
+            <input asp-for="Username" placeholder="Username" size="25"/>
+            <br />
+            <span asp-validation-for="Username" class="text-danger"></span>
+        </div>
+        <div>
+            @*<label>Password</label>*@
+            <br />
+            <input asp-for="Pass" type="password"  placeholder="Password" size="25"/>
+            <br />
+            <span asp-validation-for="Pass" class="text-danger"></span>
+        </div>
+        <div>
+            <br />
+            <input type="submit" value="Login" class="btn btn-primary" />
+        </div>
+    </form>
+    <br />
+    Não tem conta? Crie <a asp-action="RegistarCliente">aqui</a> para clientes, ou <a asp-action="RegistarRestaurante">aqui</a> para restaurantes
+
+
+
+    @if (ViewBag.Motivo != null)
+    {
+        <br />
+        <h6 style="color: orangered">Você foi suspenso no dia @ViewBag.Data.ToShortDateString() pelo seguinte motivo: @ViewBag.Motivo</h6>
+    }
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+

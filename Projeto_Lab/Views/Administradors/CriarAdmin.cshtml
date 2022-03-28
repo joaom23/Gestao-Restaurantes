@@ -1,0 +1,43 @@
+﻿@model Projeto_Lab.Models.Administrador
+
+@{
+    ViewData["Title"] = "CriarAdmin";
+}
+
+<h1>Criar Administrador</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CriarAdmin">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IdANavigation.Email" class="control-label"></label>
+                <input name="Email" class="form-control" />
+                <span asp-validation-for="IdANavigation.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdANavigation.Username" class="control-label"></label>
+                <input name="Username" class="form-control" />
+                <span asp-validation-for="IdANavigation.Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Password</label>
+                <input   type="password" name="Pass" class="form-control" />
+                <span asp-validation-for="IdANavigation.Pass" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Criar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div style="position:absolute; bottom:75px; width:80%">
+    <a asp-action="Index" asp-controller="Home">Voltar à página Inicial</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

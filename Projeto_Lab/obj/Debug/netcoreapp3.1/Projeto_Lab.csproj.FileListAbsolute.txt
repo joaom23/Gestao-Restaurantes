@@ -1,0 +1,445 @@
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.StaticWebAssets.xml
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.exe
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.deps.json
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.runtimeconfig.json
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.runtimeconfig.dev.json
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.pdb
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.Views.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.Views.pdb
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.csprojAssemblyReference.cache
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\staticwebassets\Projeto_Lab.StaticWebAssets.Manifest.cache
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\staticwebassets\Projeto_Lab.StaticWebAssets.xml
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.RazorAssemblyInfo.cache
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.RazorAssemblyInfo.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.AssemblyInfoInputs.cache
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.AssemblyInfo.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.TagHelpers.input.cache
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.TagHelpers.output.cache
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.RazorCoreGenerate.cache
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.RazorTargetAssemblyInfo.cache
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.RazorTargetAssemblyInfo.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.Views.pdb
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.csproj.CopyComplete
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.pdb
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\.filenesting.json
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Utilizadors\Login.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SemPermissoes.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Utilizadors\RegistarCliente.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Utilizadors\RegistarRestaurante.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Administradors\ListaAceitarRestaurantes.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Administradors\partialAceitarRejeitar.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Administradors\CriarAdmin.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Administradors\Suspensoes.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Administradors\partialSuspender.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Administradors\Suspender.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Utilizadors\Email.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListaRestaurantes.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Restaurantes\CriarPratoDia.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Administradors\VerRestaurantesAtivos.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Restaurantes\VerPratosDoDia.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\VerPrato.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\ListaRestFav.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\ListaPratFav.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\VerMaisInfo.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Administradors\ViewInicialAdministrador.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\ViewInicialCliente.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Restaurantes\ViewInicialRestaurante.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\ProcurarPratos.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Utilizadors\RegistoConcluido.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\AddRest.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.csproj.CoreCompileInputs.cache
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\scopedcss\bundle\Projeto_Lab.styles.css
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.genruntimeconfig.cache
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\VerNotis.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Restaurantes\_alterarData.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Utilizadors\RegistarAdmin.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SemPermissoesAdmin.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Restaurantes\AdicionarNovoPrato.cshtml.g.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Utilizadors\_RegistarRestaurante.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\.filenesting.json
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\appsettings.json
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\libman.json
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.StaticWebAssets.xml
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.exe
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.deps.json
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.runtimeconfig.json
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.runtimeconfig.dev.json
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.pdb
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.Views.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Projeto_Lab.Views.pdb
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.Auth.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\SendGrid.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.AssemblyInfoInputs.cache
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.AssemblyInfo.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.csproj.CoreCompileInputs.cache
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.MvcApplicationPartsAssemblyInfo.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.MvcApplicationPartsAssemblyInfo.cache
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.RazorAssemblyInfo.cache
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.RazorAssemblyInfo.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\staticwebassets\Projeto_Lab.StaticWebAssets.Manifest.cache
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\staticwebassets\Projeto_Lab.StaticWebAssets.xml
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\scopedcss\bundle\Projeto_Lab.styles.css
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.TagHelpers.input.cache
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.TagHelpers.output.cache
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.RazorCoreGenerate.cache
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Administradors\CriarAdmin.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Administradors\ListaAceitarRestaurantes.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Administradors\partialAceitarRejeitar.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Administradors\partialSuspender.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Administradors\Suspender.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Administradors\Suspensoes.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Administradors\VerRestaurantesAtivos.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Administradors\ViewInicialAdministrador.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\AddRest.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\ListaPratFav.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\ListaRestFav.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\ProcurarPratos.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\VerNotis.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\ViewInicialCliente.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListaRestaurantes.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\VerMaisInfo.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\VerPrato.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Restaurantes\AdicionarNovoPrato.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Restaurantes\CriarPratoDia.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Restaurantes\VerPratosDoDia.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Restaurantes\ViewInicialRestaurante.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Restaurantes\_alterarData.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SemPermissoes.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SemPermissoesAdmin.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Utilizadors\Email.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Utilizadors\Login.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Utilizadors\RegistarAdmin.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Utilizadors\RegistarCliente.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Utilizadors\RegistarRestaurante.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Utilizadors\RegistoConcluido.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Utilizadors\_RegistarRestaurante.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.RazorTargetAssemblyInfo.cache
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.RazorTargetAssemblyInfo.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.Views.pdb
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.csproj.CopyComplete
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.dll
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.pdb
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.genruntimeconfig.cache
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.csproj.AssemblyReference.cache
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\3 Ano\Lab\Projeto_Lab\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\3 Ano\Lab\Projeto_Lab\obj\Debug\netcoreapp3.1\Projeto_Lab.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,13 @@
+﻿@model Projeto_Lab.Models.Restaurante
+
+<form asp-action="AddRestFav" asp-controller="Clientes" data-ajax="true"
+      data-ajax-method="post" data-ajax-update="#Col_@Model.IdR" data-ajax-mode="replace">
+
+    <div>
+        <label>Sim</label>
+        <input type="submit" value="sim" class="btn btn-primary" />
+        <label>Não</label>
+        <input type="submit" value="nao" class="btn btn-primary" />
+    </div>
+
+</form>

@@ -1,0 +1,14 @@
+﻿@using Microsoft.AspNetCore.Http;
+
+@{
+    ViewData["Title"] = "ViewInicialRestaurante";
+}
+
+<h1 style="text-align:center">Bem Vindo Restaurante @Context.Session.GetString("Nome")</h1>
+<br />
+<a asp-action="CriarPratoDia" asp-controller="Restaurantes">Criar Pratos do Dia</a>
+<br />
+<a asp-action="VerPratosDoDia" asp-controller="Restaurantes">Ver Pratos do Dia</a>
+<br />
+
+

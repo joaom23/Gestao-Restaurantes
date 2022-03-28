@@ -1,0 +1,34 @@
+﻿@model Projeto_Lab.Models.Prato
+
+@{
+    ViewData["Title"] = "AdicionarNovoPrato";
+}
+
+<h1>Adicionar Novo Prato</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AdicionarNovoPrato">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Nome" class="control-label"></label>
+                <input asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tipo" class="control-label"></label>
+                <input asp-for="Tipo" class="form-control" />
+                <span asp-validation-for="Tipo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Criar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div style="position:absolute; bottom:75px; width:80%">
+    <a asp-action="CriarPratoDia" asp-controller="Home">Voltar</a>
+</div>
+

@@ -1,0 +1,59 @@
+﻿@using Projeto_Lab.Controllers;
+@using Microsoft.AspNetCore.Http;
+@inject Projeto_Lab.Data.LabContext _context;
+
+<ul class="navbar-nav">
+    @if (UtilizadorsController.Autenticado(Context))
+    {
+
+        <li class="nav-item dropdown">
+            <p style="cursor:pointer;" class="nav-link text-dark dropbtn"> <i class="fa fa-user" aria-hidden="true"></i> @Context.Session.GetString("Nome")   <i class="fa fa-caret-down"></i></p>
+            @if (UtilizadorsController.Cliente(Context))
+            {
+                <div class="dropdown-content">
+                    <a class="butoes" asp-action="ListaRestFav" asp-controller="Clientes">Lista Restaurantes Favoritos</a>
+                    <a class="butoes" asp-action="ListaPratFav" asp-controller="Clientes">Lista Pratos Favoritos</a>
+                </div>
+            }
+            @if (UtilizadorsController.Restaurante(Context))
+            {
+                <div class="dropdown-content">
+                    <a class="butoes" asp-action="CriarPratoDia" asp-controller="Restaurantes">Criar Pratos do Dia</a>
+                    <a class="butoes" asp-action="VerPratosDoDia" asp-controller="Restaurantes">Ver Pratos do Dia</a>
+                </div>
+            }
+            @if (UtilizadorsController.Administrador(Context))
+            {
+                <div class="dropdown-content">
+                    <a class="butoes" asp-action="CriarAdmin" asp-controller="Administradors">Criar Admin</a>
+                    <a class="butoes" asp-action="ListaAceitarRestaurantes" asp-controller="Administradors">Aceitar Restaurantes</a>
+                    <a class="butoes" asp-action="VerRestaurantesAtivos" asp-controller="Administradors">Ver Restaurantes Ativos</a>
+                    <a class="butoes" asp-action="Suspensoes" asp-controller="Administradors">Gerir Utilizadores</a>
+                </div>
+            }
+        </li>
+
+        <li class="nav-item">
+            <a id="log" asp-area="" asp-controller="Utilizadors" asp-action="Logout">Logout</a>
+        </li>
+
+    }
+    else
+    {
+        @if (!_context.Administradors.Any())
+        {     
+            <li class="nav-item">
+                <a id="regista" asp-controller="Utilizadors" asp-action="RegistarAdmin">Registar Admin</a>
+            </li>
+        }
+        <li class="nav-item">
+            <a id="regista" asp-controller="Utilizadors" asp-action="RegistarCliente">Registar Cliente</a>
+        </li>
+        <li class="nav-item">
+            <a id="regista" asp-controller="Utilizadors" asp-action="RegistarRestaurante">Registar Restaurante</a>
+        </li>
+        <li class="nav-item">
+            <a id="log" asp-controller="Utilizadors" asp-action="Login">Login</a>
+        </li>
+    }
+</ul>

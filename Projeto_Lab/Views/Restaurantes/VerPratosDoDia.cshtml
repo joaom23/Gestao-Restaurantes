@@ -1,0 +1,79 @@
+﻿@model IEnumerable<Projeto_Lab.Models.PratoDium>
+@inject Projeto_Lab.Data.LabContext _context;
+
+@{    
+ ViewData["Title"] = "VerPratosDoDia";
+}
+
+<h1>Os seus Pratos do Dia</h1>
+
+@if (Model.Count() > 0)
+{
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nome
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Preco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Foto)
+            </th>
+            <th>
+                Data do Prato
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model)
+{
+        <tr>
+            <td>
+                @_context.Pratos.FirstOrDefault(x => x.IdP == item.IdPd).Nome
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Preco)$
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descricao)
+            </td>
+            <td>
+                <img src="~/Imagens/Pratos/@Html.DisplayFor(modelItem => item.Foto)" height="50" />
+            </td>
+            <td id="data_@item.IdPd">
+                @Html.DisplayFor(modelItem => item.DataPrato)
+            </td>
+            <td>
+                <a class="btn btn-primary" asp-action="AlterarData" asp-route-id="@item.IdPd"
+                   data-ajax="true"
+                   data-ajax-method="get"
+                   data-ajax-mode="replace"
+                   data-ajax-update="#data_@item.IdPd">Alterar Data</a>
+            </td>
+            <td>
+                <a class="btn btn-danger" asp-action="RemoverPrato" asp-route-id="@item.IdPd">Remover</a>
+            </td>
+</tr>
+}
+    </tbody>
+</table>
+}
+else
+{
+    <p>Não tem pratos do dia, carregue <a asp-action="CriarPratoDia">aqui</a> para criar</p>
+}
+<div style="position:absolute; bottom:75px; width:80%">
+    <a asp-action="Index" asp-controller="Home">Voltar à página Inicial</a>
+</div>

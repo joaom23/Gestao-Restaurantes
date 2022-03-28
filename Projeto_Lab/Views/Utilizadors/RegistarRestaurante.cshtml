@@ -1,0 +1,109 @@
+﻿@model Projeto_Lab.Models.Restaurante
+
+@{
+    ViewData["Title"] = "RegistarRestaurante";
+}
+
+<h1>Registar Restaurante</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="RegistarRestaurante" enctype="multipart/form-data" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Nome" class="control-label"></label>
+                <input asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdRNavigation.Email" class="control-label"></label>
+                <input name="Email" class="form-control" />
+                <span asp-validation-for="IdRNavigation.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdRNavigation.Username" class="control-label"></label>
+                <input name="Username" class="form-control" />
+                <span asp-validation-for="IdRNavigation.Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Password</label>
+                <input type="password" name="Pass" class="form-control" />
+                <span asp-validation-for="IdRNavigation.Pass" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Telefone" class="control-label"></label>
+                <input asp-for="Telefone" class="form-control" />
+                <span asp-validation-for="Telefone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Foto" class="control-label"></label>
+                <input type="hidden" id="foto" asp-for="Foto" class="form-control" />
+                <img id="fotoPreview" src="~/Imagens/Registos/Restaurantes/" width="30" height="30" />
+                <input type="file" asp-for="Foto" onchange="encodeImgtoBase64(this);" class="form-control" />
+                <span asp-validation-for="Foto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Localização</label>
+                <input asp-for="Localizacao" class="form-control" />
+                <span asp-validation-for="Localizacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Hora Abertura</label>
+                <input asp-for="HoraAbertura" type="time" class="form-control" />
+                <span asp-validation-for="HoraAbertura" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Hora Fecho</label>
+                <input asp-for="HoraFecho" type="time" class="form-control" />
+                <span asp-validation-for="HoraFecho" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Dia de descanço</label>
+                <select name="DiaDesc" class="form-control" asp-items="ViewBag.Ddesc">
+                    <option>--Escolha o Dia da Semana--</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Tipo de Serviço</label>
+                <select name="TipoServico" class="form-control" asp-for="TipoServico" asp-items="ViewBag.TS">
+                    <option>--Escolha o Tipo de Servico--</option>
+                </select>
+                @*@Html.DropDownList("TS", null, "--Escolha o Tipo de Serviço", htmlAttributes: new { @class="form-control"})
+                    @Html.ValidationMessageFor(model => model.TipoServico,"",new { @class = "text-danger"})*@
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Registar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" asp-controller="Home">Voltar</a>
+</div>
+
+@section Scripts{
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    <script>
+        function encodeImgtoBase64(element) {
+            var file = element.files[0];
+            if (/\.(jpe?g|png|gif|bmp)$/i.test(file.name)) {
+                var reader = new FileReader();
+
+                reader.onload = function () {
+                    $("#foto").val(reader.result); //fills the INPUT field with the content file
+                    $("#fotoPreview").attr("src", reader.result); //preview the selected image
+                }
+
+                reader.readAsDataURL(file); //read file and convert to Base64
+            } else {
+                alert("Invalid file. \nPlease insert an image file(JPG, PNG, GIF or BMP)")
+            }
+        }
+    </script>
+
+}

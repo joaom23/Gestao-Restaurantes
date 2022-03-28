@@ -1,0 +1,114 @@
+﻿@using Projeto_Lab.Controllers;
+@inject Projeto_Lab.Data.LabContext _context;
+@model IEnumerable<Projeto_Lab.Models.Restaurante>
+
+@{
+    ViewData["Title"] = "ListaRestaurantes";
+}
+@foreach (var item in Model)
+{
+    <h1>
+        @Html.DisplayFor(modelItem => item.Nome) 
+    </h1>
+    <br />
+<div>
+    <img src="~/Imagens/Registos/Restaurantes/@Html.DisplayFor(modelItem => item.Foto)" height="400" width="400" />
+</div>
+
+<div style="position:absolute; right:40%; top:25%;" >
+    <div style="padding:5px;">
+        Morada: @Html.DisplayFor(modelItem => item.Localizacao)
+    </div>
+    <div style="padding:5px;">
+        E-Mail:   @Html.DisplayFor(modelItem => item.IdRNavigation.Email)
+    </div>
+    <div style="padding:5px;">
+        Telefone:   @Html.DisplayFor(modelItem => item.Telefone)
+
+    </div>
+    <div style="padding:5px;">
+        Horário:   @string.Format("{0:00}:{1:00}", item.HoraAbertura.Hours, item.HoraAbertura.Minutes)h - @string.Format("{0:00}:{1:00}", item.HoraFecho.Hours, item.HoraFecho.Minutes)h
+    </div>
+    <div style="padding:5px;">
+        Dia de Folga:   @Html.DisplayFor(modelItem => item.DiaDesc)
+    </div>
+    <div style="padding:5px;">
+        Tipo de Serviço:  @Html.DisplayFor(modelItem => item.TipoServico)
+    </div>
+    <div style="padding:5px;">
+        <a class="btn btn-primary" asp-action="VerPrato" asp-controller="Home" asp-route-id="@item.IdR">Prato do Dia</a>
+    </div>
+    @if (UtilizadorsController.Cliente(Context))
+    {
+        @if (ViewBag.contemRest == false)
+        {
+            <div style="padding:5px;">
+                <button style="min-width:260px;" id="addfav" class="btn btn-success" onclick="mostrar(@item.IdR)">Adicionar aos Favoritos</button>
+
+                <div style="white-space:nowrap;" id="noti_@item.IdR">
+                    <span>Deseja receber notificações?</span>
+                    <a asp-action="AddRestFav" asp-controller="Clientes" asp-route-id="@item.IdR" asp-route-notif="1">Sim</a>
+
+                    <a asp-action="AddRestFav" asp-controller="Clientes" asp-route-id="@item.IdR" asp-route-notif="0">Não</a>
+                </div>
+            </div>
+        }
+        else if (ViewBag.contemRest == true)
+        {
+
+        }
+    }
+</div>
+}
+
+<div style="position:absolute; bottom:75px; width:80%">
+    <a asp-action="ListaRestaurantes" asp-controller="Home">Voltar</a>
+</div>
+
+@section Scripts{
+    <script>
+        //    var data;
+        //    if ($('#check').is(':checked')) {
+        //         data = "1";
+        //    } else {
+        //        data = "0";
+        //    }
+
+        //    $.ajax({
+        //  type: "GET",
+        //  url: "ClientesController\AddRestFav",
+        //  data : { noti : data},
+        //});
+        //$("#check").change(function () {
+        //    var data;
+        //if (this.checked) {
+        //    data = "1";
+        //} else {
+        //    data = "0";
+        //    }
+        //    $.ajax("Clientes/AddRestFav", { noti: data });
+        //});
+        $(document).ready(function () {
+
+            //    $("#noti").hide();
+
+            //     $("#addfav").click(function () {
+
+            //         $("#noti").show();
+            //});
+            var count = 2000;
+
+            for (i = 0; i < count; i++) {
+
+                $("#noti_" + i).hide();
+            }
+        });
+
+
+        function mostrar(id) {
+            $("#noti_" + id).slideToggle(500);
+        }
+
+
+    </script>
+}

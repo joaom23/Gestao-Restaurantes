@@ -1,0 +1,62 @@
+﻿@model Projeto_Lab.Models.PratoDium
+
+@{
+    ViewData["Title"] = "CriarPratoDia";
+}
+
+<h1>Criar Prato do Dia</h1>
+
+<hr />
+<div class="row" style="position:relative">
+    <div class="col-md-4">
+        <form asp-action="CriarPratoDia" enctype="multipart/form-data" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+
+                <span asp-validation-for="IdPdNavigation.Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group" style="display:inline-block;">
+                <label class="control-label">Nome</label>
+                <select name="Nome" class="form-control" asp-items="ViewBag.Prato">
+                    <option>--Escolha o Prato--</option>
+                </select>
+            </div>
+            <a class="btn btn-success" style="position:absolute; top:10%; left:55%; width:200px;" asp-action="AdicionarNovoPrato">Adicionar Novo Prato</a>
+
+            @*<div class="form-group">
+            <label asp-for="Tipo" class="control-label"></label>
+            <input asp-for="Tipo" class="form-control" />
+            <span asp-validation-for="Tipo" class="text-danger"></span>
+        </div>*@
+            <div class="form-group">
+                <label class="control-label">Preço</label>
+                <input asp-for="Preco" class="form-control" />
+                <span asp-validation-for="Preco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Descrição</label>
+                <input asp-for="Descricao" class="form-control" />
+                <span asp-validation-for="Descricao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Foto" class="control-label"></label>
+                <input asp-for="Foto" type="file" form-control" />
+                <span asp-validation-for="Foto" class="text-danger"></span>
+            </div>
+            @*<div class="form-group">
+            <label asp-for="DataPrato" class="control-label"></label>
+            <input asp-for="DataPrato" class="form-control" />
+            <span asp-validation-for="DataPrato" class="text-danger"></span>
+        </div>*@
+            <label for="date">Data do Prato</label>
+            <input type="date" name="date">
+            <div class="form-group">
+                <input type="submit" value="Criar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div style="position:absolute; bottom:75px; width:80%">
+    <a asp-action="Index" asp-controller="Home">Voltar à página Inicial</a>
+</div>

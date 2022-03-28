@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Projeto_Lab.Models.Restaurante>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Email
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Foto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiaDesc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Localizacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoServico)
+            </th>
+            @*<th>
+                Registado Por
+            </th>*@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+
+                @Html.DisplayFor(modelItem => item.IdRNavigation.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefone)
+            </td>
+            <td>
+                <img src="~/Imagens/Registos/Restaurantes/@Html.DisplayFor(modelItem => item.Foto)" height="50" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Localizacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaDesc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoServico)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegistadoPorNavigation.IdANavigation.Username)
+            </td>
+
+            <td>
+                <a class="btn btn-success" asp-action="AceitaRestaurante" asp-route-id="@item.IdR">Aceitar</a> |
+                <a class="btn btn-danger" asp-action="RejeitaRestaurante" asp-route-id="@item.IdR">Rejeitar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div style="position:absolute; bottom:75px; width:80%">
+    <a asp-action="Index" asp-controller="Home">Voltar à página Inicial</a>
+</div>

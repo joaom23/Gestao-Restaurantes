@@ -1,0 +1,146 @@
+﻿@using Projeto_Lab.Controllers;
+@model IEnumerable<Projeto_Lab.Models.PratoDium>
+@inject Projeto_Lab.Data.LabContext _context;
+@using Microsoft.AspNetCore.Http;
+
+@{
+    ViewData["Title"] = "VerPrato";
+}
+
+<h1>Pratos do Dia</h1>
+@if (Model.Count() == 0)
+{
+    <br />
+
+    <p>Este Restaurante não tem pratos do dia</p>
+
+    <div style="position:absolute; bottom:75px; width:80%">
+        <a asp-action="ListaRestaurantes" asp-controller="Home">Voltar</a>
+    </div>
+
+
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Nome
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Tipo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Preco)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Descricao)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Foto)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DataPrato)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                int i = 0;
+                <tr>
+                    <td>
+                        @_context.Pratos.FirstOrDefault(x => x.IdP == item.IdPd).Nome
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Tipo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Preco)$
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Descricao)
+                    </td>
+                    <td>
+                        <img src="~/Imagens/Pratos/@Html.DisplayFor(modelItem => item.Foto)" height="50" />
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DataPrato)
+                    </td>
+                    <td>
+                        @if (UtilizadorsController.Cliente(Context))
+
+                            if ((_context.ListaFavPratos.Any(x => x.PratoId == item.IdPd && x.IdCl == Convert.ToInt32(ViewData["id"]))) == false)
+                            {
+                                <button style="min-width:260px;" id="addfav_@item.IdPd" class="btn btn-success" onclick="mostrar(@item.IdPd)">Adicionar aos Favoritos</button>
+                                @*<label for="notifica" style="color:green;">  Receber notificações</label>
+                            <input type="checkbox" name="notifica" id="check" value="1">*@
+                                <div style="white-space:nowrap;" id="noti_@item.IdPd">
+                                    <span>Deseja receber notificações?</span>
+                                    <a asp-action="AddPratFav" asp-controller="Clientes" asp-route-id="@item.IdPd" asp-route-notif="1" asp-route-idR="@item.IdR">Sim</a>
+
+                                    <a asp-action="AddPratFav" asp-controller="Clientes" asp-route-id="@item.IdPd" asp-route-notif="0" asp-route-idR="@item.IdR">Não</a>
+                                </div>
+
+
+                            }
+                            else
+                            {
+
+
+                            }
+
+
+                    </td>
+                </tr>
+
+            }
+            
+                        
+                        
+                        
+        </tbody>
+    </table>
+}
+@foreach (var item in Model)
+{
+    <div style="position:absolute; bottom:75px; width:80%">
+        <a asp-action="VerMaisInfo" asp-controller="Home" asp-route-id="@item.IdPd">Voltar</a>
+    </div>
+}
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            var count = 100;
+ 
+            for (i = 0; i < count; i++) {
+
+                $("#noti_" + i).hide();
+            }
+
+                //$("#addfav_" + item.IdPd).click(function () {
+
+                //    $("#noti_" + item.IdPd).show();
+                //});
+           
+        });
+        function mostrar(id) {
+            $("#noti_" + id).slideToggle(500);
+        }
+
+            @*$.ajax({
+                type: 'GET',
+                data: { 'id': id },
+                url: '@Url.Action("VerPrato")'
+            });
+            var i = 0;
+            for (i = 0; i < 10; i++) {
+                $(".noti_" + id).hide();
+            }*@
+         
+        //});
+    </script>
+}

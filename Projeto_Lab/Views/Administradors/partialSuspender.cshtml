@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Projeto_Lab.Models.Utilizador>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @if (item.Estado == 1)
+                {
+                    <p>Ativo</p>
+                }
+                else if (item.Estado == 2)
+                {
+                    <p>Suspenso</p>
+                }
+            </td>
+            <td>
+                @if (item.Estado == 1)
+                {
+                    <a class="btn btn-danger" asp-action="Suspender" asp-route-id="@item.Id">Suspender</a>
+                }
+                else if (item.Estado == 2)
+                {
+                    <a class="btn btn-warning" asp-action="Desbloquear" asp-route-id="@item.Id" onclick="return confirm('Tem a certeza que quer desbloquear o utilizador ?');">Desbloquear</a>
+                }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div style="position:absolute; bottom:75px; width:80%">
+    <a asp-action="Index" asp-controller="Home">Voltar à página Inicial</a>
+</div>

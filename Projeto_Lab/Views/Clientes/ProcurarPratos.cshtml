@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Projeto_Lab.Models.PratoDium>
+@inject Projeto_Lab.Data.LabContext _context;
+
+@{
+    ViewData["Title"] = "VerPratosDoDia";
+}
+
+<h1>Pratos do dia com o nome @ViewBag.nome</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nome
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tipo)
+            </th>
+            <th>
+                Preço
+            </th>
+            <th>
+               Descrição
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Foto)
+            </th>
+            <th>
+                Data do prato
+            </th>
+            <th>
+                Nome Restaurante
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdPdNavigation.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tipo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Preco)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descricao)
+                </td>
+                <td>
+                    <img src="~/Imagens/Pratos/@Html.DisplayFor(modelItem => item.Foto)" height="50" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataPrato)
+                </td>
+                <td>
+                    <p>@_context.Restaurantes.FirstOrDefault(x => x.IdR == item.IdR).Nome</p>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div style="position:absolute; bottom:75px; width:80%">
+    <a asp-action="Index" asp-controller="Home">Voltar à página Inicial</a>
+</div>
